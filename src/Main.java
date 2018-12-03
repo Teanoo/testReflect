@@ -11,5 +11,6 @@ public class Main {
         System.out.println(p.getClass().getSuperclass());
         System.out.println(p.getClass().getInterfaces()[0]);
         p.helloworld();
+        System.out.printf("testt");
     }
 }
